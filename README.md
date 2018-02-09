@@ -1,1 +1,2 @@
-# perceptron
+# Tutoriel sur le perceptron
+#
